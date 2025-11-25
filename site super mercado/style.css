@@ -22,7 +22,7 @@
     .top-row{
       display:flex;
       align-items:center;
-      gap:var(--gap);
+      
       max-width:1200px;
       margin:0 auto;
     }
@@ -35,7 +35,7 @@
       min-width:160px;
     }
     .logo img{
-      height:36px;
+      height:75px;
       width:auto;
       display:block;
       object-fit:contain;
